@@ -156,35 +156,34 @@ text
 
 ### 1. Login Page
 User authentication with JWT tokens
-![Login](https://raw.githubusercontent.com/vaibhav071104/Sweet-Shop-Management-System-/main/screenshots/login.png)
+
 
 ### 2. Register Page
 New user registration with email and password validation
-![Register](https://raw.githubusercontent.com/vaibhav071104/Sweet-Shop-Management-System-/main/screenshots/register.png)
+
 
 ### 3. Dashboard - Sweet Grid
 Main dashboard displaying all available sweets in responsive grid layout
-![Dashboard](https://raw.githubusercontent.com/vaibhav071104/Sweet-Shop-Management-System-/main/screenshots/dashboard.png)
+
 
 ### 4. Add Sweet Modal
 Form for adding new sweet items to inventory
-![Add Sweet](https://raw.githubusercontent.com/vaibhav071104/Sweet-Shop-Management-System-/main/screenshots/add-sweet.png)
+
 
 ### 5. Edit Sweet Modal
 Modal for updating existing sweet details (name, category, price, quantity)
-![Edit Sweet](https://raw.githubusercontent.com/vaibhav071104/Sweet-Shop-Management-System-/main/screenshots/edit-sweet.png)
+
 
 ### 6. Purchase Confirmation
 Success message when purchasing sweets
-![Purchase Success](https://raw.githubusercontent.com/vaibhav071104/Sweet-Shop-Management-System-/main/screenshots/purchase.png)
+
 
 ### 7. API Documentation (Swagger UI)
 FastAPI auto-generated interactive API documentation
-![API Docs](https://raw.githubusercontent.com/vaibhav071104/Sweet-Shop-Management-System-/main/screenshots/api-docs.png)
 
 ### 8. Sweets Listing
 Beautiful sweet cards with name, category, price, and stock information
-![Sweet Cards](https://raw.githubusercontent.com/vaibhav071104/Sweet-Shop-Management-System-/main/screenshots/sweet-cards.png)
+
 
 ---
 
